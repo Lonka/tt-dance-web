@@ -1,0 +1,1 @@
+import{ai as o,o as c,c as n,aj as e}from"./index-95baf8f8.js";const t={},s={class:"container mx-auto h-full flex items-center justify-center text-h1"};function a(r,i){return c(),n("div",s," Coming Soon.. ")}typeof e=="function"&&e(t);const _=o(t,[["render",a]]);export{_ as default};
